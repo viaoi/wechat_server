@@ -2,7 +2,7 @@ This code is no longer being maintained.
 
 开源的目的更多是给新手一个参考 Demo
 
-# gxgk-wechat-server
+# wechat-server
 客户服务公众号后端，为在用户提供一系列信息查询与售后服务。
 
 
